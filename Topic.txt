@@ -1,0 +1,5 @@
+Topic:  The Right Fit
+
+1. Feature people have to create accounts to buy products.
+2. If customers don't want to buy a product they can cancel their order anytime. 
+3. Customers can send their msg to us for any queries. 
